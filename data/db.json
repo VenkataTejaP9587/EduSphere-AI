@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "id": "adm-001",
+      "name": "Rajesh Kumar",
+      "email": "admin@edusphere.ai",
+      "password": "password123",
+      "role": "admin",
+      "avatar": "",
+      "institution": "Delhi Institute of Technology",
+      "createdAt": "2024-08-01T00:00:00.000Z",
+      "updatedAt": "2024-08-01T00:00:00.000Z"
+    },
+    {
+      "id": "fac-001",
+      "name": "Dr. Priya Nair",
+      "email": "faculty@edusphere.ai",
+      "password": "password123",
+      "role": "faculty",
+      "avatar": "",
+      "institution": "Delhi Institute of Technology",
+      "department": "Computer Science",
+      "coursesCount": 5,
+      "studentsCount": 312,
+      "createdAt": "2024-08-01T00:00:00.000Z",
+      "updatedAt": "2024-08-01T00:00:00.000Z"
+    },
+    {
+      "id": "stu-001",
+      "name": "Arjun Sharma",
+      "email": "student@edusphere.ai",
+      "password": "password123",
+      "role": "student",
+      "avatar": "",
+      "level": 12,
+      "xp": 2840,
+      "streak": 14,
+      "institution": "Delhi Institute of Technology",
+      "batch": "CS-2024-B",
+      "createdAt": "2024-08-01T00:00:00.000Z",
+      "updatedAt": "2024-08-01T00:00:00.000Z"
+    },
+    {
+      "id": "par-001",
+      "name": "Mr. Sharma",
+      "email": "parent@edusphere.ai",
+      "password": "password123",
+      "role": "parent",
+      "avatar": "",
+      "studentId": "stu-001",
+      "createdAt": "2024-08-01T00:00:00.000Z",
+      "updatedAt": "2024-08-01T00:00:00.000Z"
+    },
+    {
+      "id": "stu-1779700885903",
+      "name": "Teja",
+      "email": "venkatatejapatnam@gmail.com",
+      "password": "password123",
+      "role": "student",
+      "level": 1,
+      "xp": 0,
+      "streak": 0,
+      "batch": "CS-2024-B",
+      "createdAt": "2024-08-01T00:00:00.000Z",
+      "updatedAt": "2024-08-01T00:00:00.000Z"
+    },
+    {
+      "id": "par-1779700885903",
+      "name": "SubbaRao",
+      "email": "psubbarao96305@gmail.com",
+      "password": "password123",
+      "role": "parent",
+      "studentId": "stu-1779700885903",
+      "createdAt": "2024-08-01T00:00:00.000Z",
+      "updatedAt": "2024-08-01T00:00:00.000Z"
+    }
+  ]
+}
