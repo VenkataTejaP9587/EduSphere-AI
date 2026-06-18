@@ -26,3 +26,4 @@ walkDir(path.join(__dirname, 'app'), function(filePath) {
   }
 });
 console.log(`Done. Modified ${modified} files.`);
+console.log('Please run "npm run lint:fix" to fix any linting issues.');
